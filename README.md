@@ -1,4 +1,4 @@
-# daikimiyahara.github.io
+# DaikiMiyahara.github.io
 
 Daiki Miyahara
-Tohoku University
+The University of Electro-Communications
